@@ -1,0 +1,113 @@
+.App {
+  text-align: center;
+  background-color: #F6F4EE;
+}
+
+header{
+  background-color: #379683;
+  padding: 20px;
+  color: white;
+}
+
+.block-container{
+  background-color: #774a77;
+  padding: 20px;
+  color: white;
+}
+
+
+.movies-books-container{
+  padding: 60px 0;
+
+
+}
+
+.github-info-container{
+  padding: 60px 0;
+}
+
+.checkBoxes{
+  padding: 25px 0;
+  display: flex;
+
+}
+
+.checkBoxes label{
+  display: block;
+  width: 20%;
+  padding: 5px 0;
+  color: #774a77;
+  background-color: #F6F4EE;
+  margin: 0 auto;
+  border: #774a77 solid 2px;
+  cursor: pointer;
+
+}
+
+.checkBoxes label:hover{
+  transform: scale(1.1);
+  background-color: #774a77;
+  color: white;
+}
+
+
+.checkBoxes input {
+  display: none;
+}
+
+input:checked + label  {
+  background-color:#774a77;
+  font-weight: bold;
+  color: white;
+
+}
+
+.button-container{
+  padding: 40px 0;
+}
+
+.button-container button {
+    background-color: #774a77;
+    margin-right: 5px;
+    color: white;
+    padding: 10px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+
+}
+
+.furniture-list li a{
+  text-decoration: none;
+  padding: 5px;
+  display: block;
+  background-color: #774a77;
+  color: white;
+  margin: 0 auto;
+  width: 70px;
+}
+
+.furniture-list{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.furniture-list li{
+  display: flex;
+  flex-direction: column;
+  list-style-type: none;
+  width: 25%;
+  justify-content: space-between;
+  padding: 20px 0;
+
+}
+
+.furniture-list li img{
+  display: block;
+  width: 75%;
+  height: auto;
+  padding: 15px 0;
+  margin: 0 auto;
+}
