@@ -87,6 +87,9 @@ input:checked + label  {
   margin: 0 auto;
   width: 70px;
 }
+.furniture-list li a:hover{
+  transform: scale(1.1);
+}
 
 .furniture-list{
   display: flex;
