@@ -215,6 +215,27 @@
       "img": "https://secure.img1-fg.wfcdn.com/im/21032112/resize-h800%5Ecompr-r85/4653/46536144/Liam+Barrel+Chair.jpg",
       "type": "chair"
     },
+		{
+			"title": "Millett Wingback Chair",
+			"price": "$252.99",
+			"link": "https://www.wayfair.com/furniture/pdp/three-posts-millett-wingback-chair-trpt3653.html",
+			"img": "https://secure.img1-fg.wfcdn.com/im/96547670/resize-h800%5Ecompr-r85/5174/51745827/Millett+Wingback+Chair.jpg",
+			"type": "chair"
+		},
+		{
+			"title": "Sophia Barrel Chair",
+			"price": "$109.98",
+			"link": "https://www.wayfair.com/furniture/pdp/andover-mills-sophia-barrel-chair-adml8470.html",
+			"img": "https://secure.img1-fg.wfcdn.com/im/55056798/resize-h800%5Ecompr-r85/4317/43171698/Sophia+Barrel+Chair.jpg",
+			"type": "chair"
+		},
+		{
+			"title": "Bustamante Club Chair",
+			"price": "$174.98",
+			"link": "https://www.wayfair.com/furniture/pdp/charlton-home-bustamante-club-chair-ando1420.html",
+			"img": "https://secure.img1-fg.wfcdn.com/im/80074157/resize-h800%5Ecompr-r85/3944/39448385/Bustamante+Club+Chair.jpg",
+			"type": "chair"
+		},
     {
       "title": "Olson Accent Club Chair with Arms Upholstered Silver Nail Head",
       "price": "$190.99",
